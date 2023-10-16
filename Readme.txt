@@ -17,3 +17,6 @@ Stable values for rigidbody with 1kg mass:
 - Damper 50.
 
 I wish you success!
+
+Asset Store Page
+https://assetstore.unity.com/packages/tools/physics/rigidbody-target-matching-215780
