@@ -20,3 +20,6 @@ I wish you success!
 
 Asset Store Page
 https://assetstore.unity.com/packages/tools/physics/rigidbody-target-matching-215780
+
+Video
+https://www.youtube.com/watch?v=Re0vJ3Luojc
