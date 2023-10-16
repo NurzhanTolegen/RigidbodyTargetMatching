@@ -19,4 +19,6 @@ I wish you success!
 Asset Store Page
 https://assetstore.unity.com/packages/tools/physics/rigidbody-target-matching-215780
 
-https://www.youtube.com/watch?v=Re0vJ3Luojc
+Video
+
+[<img src="https://img.youtube.com/vi/Re0vJ3Luojc/maxresdefault.jpg" width="100%">](https://www.youtube.com/watch?v=Re0vJ3Luojc "Unity Rigidbody Target Matching")
